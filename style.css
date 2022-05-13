@@ -19,7 +19,7 @@ body {
     height:10vh;
     background:lavender;
     position:absolute;
-    top:80vh;
+    top:85vh;
     left:0px;
     display:flex;
     align-items:center;
@@ -30,7 +30,7 @@ body {
     height:30vh;
     background:lavender;
     position:absolute;
-    top:20vh;
+    top:25vh;
     left:0px;
     transition:1s;
     display: flex;
