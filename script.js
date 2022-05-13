@@ -23,10 +23,10 @@ about.addEventListener("click", hover2);
 skill.addEventListener("click", hover3);
 con.addEventListener("click", hover4);
 function more() {
-item.style.top="-20vh";
+item.style.top="-25vh";
 }
 function less() {
-item.style.top="30vh";
+item.style.top="35vh";
 }
 function light() {
 sun.style.display="none";
